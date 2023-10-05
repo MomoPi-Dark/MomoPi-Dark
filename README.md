@@ -5,7 +5,7 @@
 <br>
 <h3 align="center">Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,mongo,postgres,sqlite,react&theme=dark">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,nextjs,cpp,mongo,postgres,sqlite&theme=dark">
 </p>
 <h3 align="center">Program & OS That I Used For Coding</h3>
 <p align="center">
