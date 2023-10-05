@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://discord.com/users/735195431927021728"><img src="https://lanyard.cnrad.dev/api/735195431927021728"/></a>
 </p>
+<br>
 <h3 align="center">Skills</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,go,mongo,postgres,sqlite,react&theme=dark">
