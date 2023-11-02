@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,go,nextjs,cpp,mongo,postgres,sqlite&theme=dark">
 </p>
-<h3 align="center">Program & OS That I Used For Coding</h3>
+<h3 align="center">The program I use for coding</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,docker,androidstudio&theme=dark">
 </p>
