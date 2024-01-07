@@ -13,6 +13,7 @@
 </p>
 <br>
 ## 📊 Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoPi-Dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoPi-Dark&theme=dracula&show_icons=true&hide_border=false&layout=compact)<br>
 <!-- <h2 align="center">Code Activity</h2>
 <p align="center">
