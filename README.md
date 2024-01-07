@@ -24,8 +24,7 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoPi-Dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoPi-Dark&theme=dracula&show_icons=true&hide_border=false&layout=compact)<br> -->
-<!-- <h2 align="center">Code Activity</h2>
-<p align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@1613dde9-c8f6-48d2-af00-7e1a7a4183f9/73473456-a66b-4a0f-82e9-bfea5a1756bc.png" /></a>
+<h2 align="center">Code Activity</h2>
+    <p align="center">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@1613dde9-c8f6-48d2-af00-7e1a7a4183f9/73473456-a66b-4a0f-82e9-bfea5a1756bc.png" /></a>
 </p>
- -->
