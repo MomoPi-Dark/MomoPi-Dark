@@ -13,7 +13,6 @@
 <p align="start">
   <img src="https://skillicons.dev/icons?i=vscode,docker,androidstudio&theme=dark">
 </p>
-<br>
 
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=MomoPi-Dark&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
