@@ -3,12 +3,12 @@
   <a href="https://discord.com/users/735195431927021728"><img src="https://lanyard.cnrad.dev/api/735195431927021728"/></a>
 </p> -->
 <!-- <br> -->
-<h2 align="center">Skills</h2>
-<p align="center">
+<h2 align="start">Skills</h2>
+<p align="start">
   <img src="https://skillicons.dev/icons?i=js,ts,go,nextjs,cpp,mongo,postgres,sqlite&theme=dark">
 </p>
-<h2 align="center">The program I use for coding</h2>
-<p align="center">
+<h2 align="start">The program I use for coding</h2>
+<p align="start">
   <img src="https://skillicons.dev/icons?i=vscode,docker,androidstudio&theme=dark">
 </p>
 <br>
