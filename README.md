@@ -4,11 +4,11 @@
 </p> -->
 <!-- <br> -->
 
-## Skills
+## 🧩 Skills
 <p align="start">
   <img src="https://skillicons.dev/icons?i=js,ts,go,nextjs,cpp,mongo,postgres,sqlite&theme=dark">
 </p>
-<h2 align="start">The program I use for coding</h2>
+## 💻 The program I use for coding
 <p align="start">
   <img src="https://skillicons.dev/icons?i=vscode,docker,androidstudio&theme=dark">
 </p>
