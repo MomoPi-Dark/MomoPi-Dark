@@ -19,7 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MomoPi-Dark&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoPi-Dark&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+<div align="end">
   <a href="https://github.com/MomoPi-Dark"><img src="https://komarev.com/ghpvc/?username=MomoPi-Dark&label=VIEWS&style=for-the-badge&color=orange" alt="Views"></a>
 </div>
 
