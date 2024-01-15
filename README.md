@@ -1,8 +1,8 @@
-<!-- <h2 align="center">Discord Activity</h2> -->
-<!-- <p align="center">
-  <a href="https://discord.com/users/735195431927021728"><img src="https://lanyard.cnrad.dev/api/735195431927021728"/></a>
-</p> -->
-<!-- <br> -->
+## Discord Activity
+<p align="start">
+<!--   <a href="https://discord.com/users/735195431927021728"><img src="https://lanyard.cnrad.dev/api/735195431927021728"/></a> -->
+  <a href="https://discord.com/users/735195431927021728"><img src="https://discord.c99.nl/widget/theme-3/735195431927021728.png"/></a>
+</p>
 
 ## 🧩 Skills
 <p align="start">
