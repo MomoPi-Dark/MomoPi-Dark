@@ -11,7 +11,7 @@
 
 ## 💻 The program I use for coding
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,androidstudio&theme=dark">
+  <img src="https://skillicons.dev/icons?i=vscode,docker,androidstudio,idea&theme=dark">
 </p>
 
 ## 📊 Stats
