@@ -6,7 +6,7 @@
 
 ## 🧩 Skills
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,nextjs,cpp,mongo,postgres,sqlite&theme=dark">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,nextjs,cpp,mongo,postgres,sqlite,dart,flutter&theme=dark">
 </p>
 
 ## 💻 The program I use for coding
