@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gamflaz</h1>
 <h3 align="center">A discord bot, web developer from Indonesia.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momopi-dark" alt="gamflaz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momopi-dark&theme=onedark" alt="gamflaz" /></a> </p>
 
 ## 💻 Language and Tools
 <p align="start">
