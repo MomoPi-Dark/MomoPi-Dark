@@ -4,6 +4,8 @@
   <a href="https://discord.com/users/735195431927021728"><img src="https://discord.c99.nl/widget/theme-3/735195431927021728.png"/></a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BreadcrumbsMomoPi-Dark-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🧩 Skills
 <p align="start">
   <img src="https://skillicons.dev/icons?i=js,ts,go,nextjs,cpp,dart,flutter,java&theme=dark">
