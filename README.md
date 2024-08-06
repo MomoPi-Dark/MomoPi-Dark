@@ -1,19 +1,10 @@
-## Discord Activity
-<p align="start">
-<!--   <a href="https://discord.com/users/735195431927021728"><img src="https://lanyard.cnrad.dev/api/735195431927021728"/></a> -->
-  <a href="https://discord.com/users/735195431927021728"><img src="https://discord.c99.nl/widget/theme-3/735195431927021728.png"/></a>
-</p>
-
+<h1 align="center">Hi 👋, I'm Gamflaz</h1>
+<h3 align="center">A discord bot, web developer from Indonesia.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momopi-dark" alt="gamflaz" /></a> </p>
 
-## 🧩 Skills
+## 💻 Language and Tools
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,nextjs,cpp,dart,flutter,java&theme=dark">
-</p>
-
-## 💻 The program I use for coding
-<p align="start">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,androidstudio,idea&theme=dark">
+  <img src="https://skillicons.dev/icons?i=vscode,docker,androidstudio,idea,js,ts,go,nextjs,cpp,dart,flutter,java&theme=dark">
 </p>
 
 ## 📊 Stats
