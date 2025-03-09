@@ -38,6 +38,8 @@
 ## 🚀 Featured Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomoPi-Dark&repo=Project_App_Mobile&theme=tokyonight)](https://github.com/MomoPi-Dark/Project_App_Mobile)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomoPi-Dark&repo=Web-Desa-Kedungmulyo&theme=tokyonight)](https://github.com/MomoPi-Dark/Web-Desa-Kedungmulyo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomoPi-Dark&repo=Game-Petualang&theme=tokyonight)](https://github.com/MomoPi-Dark/Game-Petualang)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momopi-dark&theme=onedark" alt="gamflaz" /></a> </p>
 
