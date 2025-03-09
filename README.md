@@ -21,7 +21,7 @@
 - 🌱 Currently learning **Next.js, Go, and Software Development**
 - 🔝 Working on **Discord Bots & Web Projects**
 - 💬 Ask me about **Web Development, APIs, and Bots**
-- 👨‍💻 Reach me at **[Gamflaz](https://www.instagram.com/ibaalkocak_/)**
+- 👨‍💻 DM me at **[Gamflaz](https://www.instagram.com/ibaalkocak_/)**
 - ⚡ Fun fact: **I love automating everything!**
 - 🎯 Motto: _"Keep Coding, Keep Improving."_
 
