@@ -31,14 +31,13 @@
 
 ### 🌍 Live Projects
 
-- [Premier Crafty](https://www.premier-crafty.my.id/)
-- [Desa Kedungmulyo](https://desakedungmulyo.vercel.app/)
+🔗 **[Premier Crafty](https://www.premier-crafty.my.id/)**
 
-### 📂 Repository Projects
+> 🛒 _Shop Indonesia Market._
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomoPi-Dark&repo=Project_App_Mobile&theme=tokyonight)](https://github.com/MomoPi-Dark/Project_App_Mobile)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomoPi-Dark&repo=Web-Desa-Kedungmulyo&theme=tokyonight)](https://github.com/MomoPi-Dark/Web-Desa-Kedungmulyo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomoPi-Dark&repo=Game-Petualang&theme=tokyonight)](https://github.com/MomoPi-Dark/Game-Petualang)
+🔗 **[Desa Kedungmulyo](https://desakedungmulyo.vercel.app/)**
+
+> 🌾 _A web desa for the local village._
 
 ---
 
