@@ -6,7 +6,7 @@
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)](https://github.com/MomoPi-Dark)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ibalkocak_)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/4DdJ46VFJQ)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/735195431927021728)
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Next.js, Go, and Software Development**
