@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Next.js, Go, and Software Development**
 - 🔭 I’m currently working on **Discord Bots & Web Projects**
 - 💬 Ask me about **Web Development, APIs, and Bots**
-- 📫 How to reach me **[![Gamflaz]](https://www.instagram.com/ibaalkocak_/)**
+- 📫 How to reach me **[Gamflaz](https://www.instagram.com/ibaalkocak_/)**
 - ⚡ Fun fact: **I love automating everything!**
 
 ## 💻 Languages & Tools
