@@ -55,15 +55,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MomoPi-Dark&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoPi-Dark&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 📊 Code Activity
-
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=momopi-dark&theme=onedark" alt="gamflaz" />
     </a>
 </p>
+
+---
+
+## 📊 Code Activity
 
 <p>
     <a href="https://wakatime.com">
