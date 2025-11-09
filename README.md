@@ -28,20 +28,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌍 Live Projects
-
-🔗 **[Premier Crafty](https://www.premier-crafty.my.id/)**
-
-> 🛒 _Shop Indonesia Market._
-
-🔗 **[Desa Kedungmulyo](https://desakedungmulyo.vercel.app/)**
-
-> 🌾 _A web desa for the local village._
-
----
-
 ## 💻 Languages & Tools
 
 <p align="start">
